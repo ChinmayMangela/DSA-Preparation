@@ -1,4 +1,5 @@
 package binarysearch
+import java.util.Scanner
 
 // Floor of a number : Return the largest element that is <= target
 fun floorOfNumber(numbers: Array<Int>, target: Int): Int {
@@ -17,3 +18,4 @@ fun floorOfNumber(numbers: Array<Int>, target: Int): Int {
 
     return end
 }
+
