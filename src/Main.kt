@@ -8,5 +8,6 @@ fun main() {
 //    println(floorOfNumber(numbers, 81))
 //    println(countFirstOccurrence(numbers,53))
 //    println(countFirstAndLastPos(numbers, 85).contentToString())
-    println(findPivot(numbers))
+//    println(findPivot(numbers))
+    println(countRotation(numbers))
 }
